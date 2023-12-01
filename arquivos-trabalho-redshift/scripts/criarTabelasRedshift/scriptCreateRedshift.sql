@@ -1,5 +1,9 @@
 set datestyle to 'SQL,DMY';
 
+-- criando banco de dados
+
+CREATE DATABASE ed;
+
 -- tabela dimensaocategoria
 
 CREATE TABLE DimensaoCategoria(
