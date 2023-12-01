@@ -1,8 +1,8 @@
 set datestyle to 'SQL,DMY';
 
--- criando banco de dados
+-- criando banco de dados => execute isso em uma consulta separada dos create tables
 
-CREATE DATABASE ed;
+-- CREATE DATABASE ed;
 
 -- tabela dimensaocategoria
 
